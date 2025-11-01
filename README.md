@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20there!%20I'm%20Konstantin&reversal=false&fontAlign=50&textBg=false&fontColor=49494970&animation=scaleIn&descAlign=50&descSize=20&desc=I'm%20a%20begginer%20Middle%20Software%20Web%20Engeneer&descAlignY=64)](https://t.me/K_01001101)
+[![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20there!%20I'm%20Konstantin&reversal=false&fontAlign=50&textBg=false&fontColor=e5e5e585&animation=scaleIn&descAlign=50&descSize=20&desc=I'm%20a%20begginer%20Middle%20Software%20Web%20Engeneer&descAlignY=64)](https://t.me/K_01001101)
 
 ## About me
 
